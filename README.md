@@ -1,6 +1,8 @@
-https://media.licdn.com/dms/image/v2/D5616AQFqR7ksyEhB6Q/profile-displaybackgroundimage-shrink_200_800/B56Z0ji6lYKAAU-/0/1774417850374?e=1776297600&v=beta&t=Kg69x5qjz_SaIhI98PoBpJzzFLxaO2ZJxt4jvgziwXM
 
 # 💫 About Me:
+
+<img>https://www.linkedin.com/in/md-emon-4a0501380/overlay/background-photo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BgWHX4oXvRVqeqyTUW3sHNw%3D%3D</img>
+
 Backend Engineer focused on building scalable, real-time systems.<br><br>Currently developing a production-grade chat application (Messenger-level) using Node.js, Express, Kafka, Redis, and Socket.IO — applying concepts like event-driven architecture, message queues, and distributed system design.<br><br>Strong believer in learning by building. I go beyond surface-level usage to understand how systems work internally and how to design them for scale.<br><br>Tech focus:<br>• Backend Development (Node.js, Express)<br>• Event Streaming & Messaging (Kafka)<br>• Caching & Performance (Redis)<br>• Real-time Systems (WebSockets / Socket.IO)<br>• System Design & Scalability<br><br>Currently improving:<br>• Distributed systems design<br>• High-performance backend architecture<br><br>Goal: To build and scale systems that handle real-world traffic reliably.<br>
 
 
