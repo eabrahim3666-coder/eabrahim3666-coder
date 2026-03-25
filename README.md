@@ -1,4 +1,5 @@
-![My Banner](my_banner.jpg)
+
+![my_banner](https://github.com/user-attachments/assets/7126c4e2-068a-4765-9448-99d3e821874b)
 
 # 💫 About Me:
 Backend Engineer focused on building scalable, real-time systems.<br><br>Currently developing a production-grade chat application (Messenger-level) using Node.js, Express, Kafka, Redis, and Socket.IO — applying concepts like event-driven architecture, message queues, and distributed system design.<br><br>Strong believer in learning by building. I go beyond surface-level usage to understand how systems work internally and how to design them for scale.<br><br>Tech focus:<br>• Backend Development (Node.js, Express)<br>• Event Streaming & Messaging (Kafka)<br>• Caching & Performance (Redis)<br>• Real-time Systems (WebSockets / Socket.IO)<br>• System Design & Scalability<br><br>Currently improving:<br>• Distributed systems design<br>• High-performance backend architecture<br><br>Goal: To build and scale systems that handle real-world traffic reliably.<br>
