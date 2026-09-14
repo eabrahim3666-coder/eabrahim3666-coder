@@ -4,14 +4,15 @@
 
 # Full-Stack Engineer | Next.js • Node.js • AI • Real-Time Systems
 
-### **4 Production Applications • AI SaaS • Real-Time Systems • Business Automation**
+### **Built 4 Production-Style Applications • AI SaaS • Event-Driven Systems • Business Automation**
 
-Building products that businesses can actually use—not tutorial projects.
+Building software that solves real business problems—not tutorial projects.
 
 <p>
 <a href="https://www.getnextcall.com/"><img src="https://img.shields.io/badge/🚀_Live_NextCall-FF6A00?style=for-the-badge"/></a>
 <a href="mailto:eabrahim3666@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge"/></a>
 <a href="https://linkedin.com/in/md-emon-4a0501380"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/eabrahim3666-coder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 **🇧🇩 Bangladesh • Open for Freelance • Contract • Remote**
@@ -22,9 +23,9 @@ Building products that businesses can actually use—not tutorial projects.
 
 ## About Me
 
-I build **complete software products**—from beautiful Next.js interfaces to scalable Node.js backends with AI workflows, authentication, billing, real-time communication, and production-grade architecture.
+I build complete software products—from polished **Next.js** interfaces to scalable **Node.js** backends with authentication, AI workflows, real-time communication, billing systems, and production-grade architecture.
 
-Over the past year I've focused on solving real business problems rather than building tutorial clones. Every project on this profile was designed to behave like software that people can actually rely on.
+Instead of chasing every new framework, I enjoy building software that solves real business problems and can actually be used in production.
 
 ---
 
@@ -75,30 +76,29 @@ Over the past year I've focused on solving real business problems rather than bu
 
 ## ⭐ NextCall — AI Voice Receptionist SaaS
 
+<sub>**Production SaaS • Live Product**</sub>
+
 > **Turn missed calls into booked appointments with a 24/7 AI receptionist.**
 
 <p align="center">
 <img src="./assets/nextcall/hero.png" width="100%">
 </p>
 
-### What NextCall Actually Does
+Businesses lose customers every time a phone call goes unanswered.
 
-Every missed phone call can become lost revenue.
+NextCall replaces missed calls with a **24/7 AI receptionist** that answers calls naturally, captures leads, books appointments into Google Calendar, sends SMS confirmations, and keeps business owners updated through a real-time dashboard—all without hiring additional front-desk staff.
 
-NextCall acts as a **24/7 AI receptionist** that answers calls, speaks naturally with customers, captures leads, books appointments into Google Calendar, sends SMS confirmations, and keeps business owners updated through a real-time dashboard.
+### Why businesses would use it
 
-Instead of hiring additional staff, businesses can automate their front desk while maintaining a professional customer experience around the clock.
+- Never miss customer calls.
+- Book appointments automatically.
+- Send instant SMS confirmations.
+- Reduce receptionist workload.
+- Scale customer support around the clock.
 
-### What Makes It Different
+### Feature Highlights
 
-* AI Voice Receptionist
-* Google Calendar Booking
-* SMS Confirmation
-* WhatsApp Support
-* Live Call Dashboard
-* Webhook Automation
-* Redis-Powered Workflows
-* Paddle Subscription Billing
+`Voice AI` • `Google Calendar` • `SMS` • `WhatsApp` • `Redis` • `Webhooks` • `Paddle`
 
 ### Product Preview
 
@@ -112,15 +112,7 @@ Instead of hiring additional staff, businesses can automate their front desk whi
 <img src="./assets/nextcall/pricing.png" width="48%">
 </p>
 
-### Business Value
-
-* Never miss customer calls.
-* Convert more leads into appointments.
-* Reduce receptionist workload.
-* Automate confirmations and follow-ups.
-* Scale customer support without hiring additional staff.
-
-<p>
+<p align="center">
 <a href="https://www.getnextcall.com/"><img src="https://img.shields.io/badge/🌐_Live_Website-FF6A00?style=for-the-badge"/></a>
 <a href="https://github.com/eabrahim3666-coder/nextCall-V2"><img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github"/></a>
 </p>
@@ -129,27 +121,19 @@ Instead of hiring additional staff, businesses can automate their front desk whi
 
 ## 🚀 NextCall Marketing App *(Internal Tool)*
 
-> **A private growth platform built exclusively to market NextCall.**
+<sub>**Internal Tool • Private Workflow**</sub>
+
+> A private AI-powered growth platform built exclusively to market NextCall.
 
 <p align="center">
 <img src="./assets/audit/hero-map.png" width="100%">
 </p>
 
-> **Note:** This is **not** a public SaaS. I built it as an internal marketing system for my own business.
+Instead of manually searching for local businesses, this platform discovers businesses, analyzes their online presence, generates AI-powered audit reports, and prepares personalized outreach campaigns automatically.
 
-### Purpose
+### Feature Highlights
 
-Finding local businesses manually doesn't scale.
-
-This platform automatically discovers businesses, analyzes their online presence, generates AI-powered audit reports, and prepares personalized outreach campaigns.
-
-### Features
-
-* Interactive Business Discovery Map
-* AI Website Audits
-* Automated Email Campaigns
-* PDF Business Reports
-* Lead Organization
+`Business Discovery` • `AI Audits` • `PDF Reports` • `Email Campaigns` • `Lead Management`
 
 ### Dashboard Preview
 
@@ -159,7 +143,7 @@ This platform automatically discovers businesses, analyzes their online presence
 <img src="./assets/audit/dashboard.png" width="32%">
 </p>
 
-<p>
+<p align="center">
 <a href="https://audit-next-call.vercel.app/"><img src="https://img.shields.io/badge/🔒_Internal_Demo-blue?style=for-the-badge"/></a>
 <a href="https://github.com/eabrahim3666-coder/audit_nextCall"><img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github"/></a>
 </p>
@@ -168,43 +152,38 @@ This platform automatically discovers businesses, analyzes their online presence
 
 ## ⚡ Daraz Backend API
 
-> **Production-style multi-vendor eCommerce backend built with event-driven architecture.**
+<sub>**Modular Monolith • Event-Driven Architecture**</sub>
+
+> Production-style multi-vendor eCommerce backend built with Redis, Kafka-ready events, Stripe webhooks, Shippo fulfilment, and Socket.IO.
 
 <p align="center">
 <img src="./assets/daraz/architecture.png" width="100%">
 </p>
 
-### Engineering Focus
+Rather than building isolated CRUD APIs, this project explores how scalable commerce systems can combine asynchronous workflows, caching, and real-time communication inside a **modular monolith** that's ready for future service separation.
 
-This project wasn't built just to create APIs—it was built to explore how scalable commerce systems communicate through events, caching, and asynchronous workflows.
+### Tech Used
 
-### Technologies
-
-* Node.js
-* Express
-* MongoDB
-* Redis
-* Kafka
-* Socket.IO
-* Stripe Webhooks
+`Node.js` • `Express` • `MongoDB` • `Redis` • `Kafka` • `Socket.IO`
 
 ### Engineering Highlights
 
-* Kafka Event Bus
-* Redis Scaling
-* Real-Time Buyer/Seller Chat
-* JWT Authentication
-* Google OAuth
-* Shipping Automation
+- Kafka-ready event producers
+- Redis caching & distributed locking
+- Buyer ↔ Seller real-time chat
+- JWT Authentication
+- Google OAuth
+- Stripe Webhooks
+- Shippo Shipping Integration
 
-### Preview
+### Technical Preview
 
 <p align="center">
 <img src="./assets/daraz/postman.png" width="48%">
 <img src="./assets/daraz/code.png" width="48%">
 </p>
 
-<p>
+<p align="center">
 <a href="https://github.com/eabrahim3666-coder/Daraz-api"><img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
@@ -212,23 +191,19 @@ This project wasn't built just to create APIs—it was built to explore how scal
 
 ## 📱 PhoneMarket (SS Trade Express)
 
-> **Full-stack smartphone eCommerce platform with real-time customer interaction.**
+<sub>**Frontend Showcase • Premium UI**</sub>
+
+> Apple-inspired smartphone storefront focused on a premium shopping experience.
 
 <p align="center">
 <img src="./assets/phonemarket/hero.png" width="100%">
 </p>
 
-### What It Offers
+PhoneMarket recreates a premium smartphone shopping experience with modern UI interactions, a clean product presentation, and an elegant admin dashboard designed for a realistic eCommerce workflow.
 
-PhoneMarket combines a modern shopping experience with real-time communication, inventory management, and administrative controls for running an online smartphone store.
+### Feature Highlights
 
-### Features
-
-* Live Customer Chat
-* Variant-Based Inventory
-* Admin Dashboard
-* Analytics
-* Secure Authentication
+`Next.js UI` • `Modern Dashboard` • `Inventory UI` • `Customer Chat` • `Responsive Design`
 
 ### Preview
 
@@ -237,7 +212,7 @@ PhoneMarket combines a modern shopping experience with real-time communication, 
 <img src="./assets/phonemarket/chat.png" width="48%">
 </p>
 
-<p>
+<p align="center">
 <a href="https://github.com/eabrahim3666-coder/PhoneMarket"><img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
@@ -249,18 +224,23 @@ PhoneMarket combines a modern shopping experience with real-time communication, 
 
 ✔ Built **NextCall** from scratch in approximately **3 months**.
 
-✔ Experience across:
+### Backend
 
-* JWT Authentication
-* Google OAuth
-* AI Integrations
-* Twilio
-* Paddle Billing
-* Redis
-* Kafka
-* Socket.IO
-* Event-Driven Architecture
-* Production Webhooks
+- JWT Authentication
+- Google OAuth
+- Redis
+- Kafka
+- Socket.IO
+- Event-Driven Architecture
+
+### Integrations
+
+- OpenAI
+- Twilio
+- Paddle
+- Stripe
+- Google Calendar
+- Production Webhooks
 
 ---
 
@@ -282,9 +262,9 @@ I'm available for **Freelance**, **Contract**, and **Remote** work.
 
 📧 **[eabrahim3666@gmail.com](mailto:eabrahim3666@gmail.com)**
 
-💼 **linkedin.com/in/md-emon-4a0501380**
+💼 **[linkedin.com/in/md-emon-4a0501380](https://linkedin.com/in/md-emon-4a0501380)**
 
-🌐 **github.com/eabrahim3666-coder**
+🌐 **[github.com/eabrahim3666-coder](https://github.com/eabrahim3666-coder)**
 
 </div>
 
@@ -292,6 +272,6 @@ I'm available for **Freelance**, **Contract**, and **Remote** work.
 
 <div align="center">
 
-### Building something.
+### Building software that solves real business problems.
 
 </div>
